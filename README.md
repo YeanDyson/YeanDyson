@@ -1,5 +1,6 @@
 22222222222222222222222222222222222222222222222222
 ------------------------------------------------------------------------------------------------------------------------
+[![wakatime](https://wakatime.com/badge/user/b18521e1-35d2-4fbf-86da-505f8d106aad.svg)](https://wakatime.com/@b18521e1-35d2-4fbf-86da-505f8d106aad)
 
 <!--
 **nancom20/nancom20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
