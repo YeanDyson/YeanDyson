@@ -1,4 +1,4 @@
-everything is " "
+everything is ${ }
 ------------------------------------------------------------------------------------------------------------------------
 [![wakatime](https://wakatime.com/badge/user/b18521e1-35d2-4fbf-86da-505f8d106aad.svg)](https://wakatime.com/@b18521e1-35d2-4fbf-86da-505f8d106aad)
 
